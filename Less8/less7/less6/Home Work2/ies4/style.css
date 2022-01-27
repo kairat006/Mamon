@@ -1,0 +1,58 @@
+ul{
+    color: brown;
+}
+
+ol{
+    color: chartreuse;
+}
+div{
+
+
+
+}
+.blok1{
+background-color: crimson;
+
+
+}
+.blok2{
+  background-color: blue;  
+
+
+}
+.blok3{
+background-color: cornflowerblue;
+
+}
+.tekxt1{
+    color: darkblue;
+}
+.tekxt2{
+    color: darkolivegreen;
+}
+.conteiner1{
+    background-color: darkred;
+}
+.title1{
+    background-color: rgb(41, 24, 24);
+    color: tomato;
+}
+.tekxt1{
+    background-color: turquoise;
+    font-size: 25px;
+}
+.blok1{
+height: 100px;
+width: 100px;
+background-color: red;
+}
+.blok2{
+height: 100px;
+width: 150px;
+background-color: green;
+}
+.blok3{
+height: 100px;
+width: 150px;
+background-color: indianred;
+}

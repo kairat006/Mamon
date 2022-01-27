@@ -1,0 +1,32 @@
+.famyle{
+    font-family: 'Ubuntu', sans-serif;
+
+}
+.size{
+font-size: 90px;
+
+}
+.style{
+font-style: italic;
+
+}
+.weight{
+font-weight: 900;
+
+}
+.align{
+text-align: center;
+
+}
+.overline{
+text-decoration: overline;
+
+}
+.uppercase{
+text-transform: uppercase;
+
+}
+.shadow{
+text-shadow: 2px 2px 2px red;
+
+}
